@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AplikacjaAndroidNicola</string>
+    <string name="enter_name">Podaj imie</string>
 </resources>
